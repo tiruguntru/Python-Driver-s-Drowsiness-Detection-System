@@ -58,7 +58,9 @@ so by matching of trained images to device automatically alarm turn on and alert
 - - - -
 
 
-that's all about my project
+That's all about my project
+<br />
 
 Thanks and regards
+<br />
 G.Tirupathirao
