@@ -50,9 +50,13 @@ so by matching of trained images to device automatically alarm turn on and alert
 ## output
  > Here is the ouput of the above project :-
 
-![picture alt](http://via.placeholder.com/200x150 "please type something about picture")
+![project image 4](https://github.com/tiruguntru/Python-Driver-s-Drowsiness-Detection-System/assets/155409716/f4ce6846-17b0-4d4f-b852-7f7dd82a8271)
 - - - -
-![picture alt](http://via.placeholder.com/200x150 "please type something about picture")
+
+
+
+- - - -
+- - - -
 
 
 that's all about my project 
