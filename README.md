@@ -48,10 +48,8 @@ so by matching of trained images to device automatically alarm turn on and alert
 
 
 ## output
- > Here is the ouput of the above project :-
+ > Here are some snapshots of the above project :-
 
-![project image 4](https://github.com/tiruguntru/Python-Driver-s-Drowsiness-Detection-System/assets/155409716/f4ce6846-17b0-4d4f-b852-7f7dd82a8271)
-- - - -
 ![driver image 2](https://github.com/tiruguntru/Python-Driver-s-Drowsiness-Detection-System/assets/155409716/93541dfc-069a-4eb4-acda-5cbe49591274)
 - - - -
 ![project image 3](https://github.com/tiruguntru/Python-Driver-s-Drowsiness-Detection-System/assets/155409716/2005f604-790f-4e84-9a6e-a487048f3ead)
